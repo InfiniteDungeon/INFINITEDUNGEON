@@ -1,4 +1,4 @@
-### Hi there 👋
+### BIENVENIDOS A INFINITE DUNGEON!!
 
 <!--
 **InfiniteDungeon/INFINITEDUNGEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
